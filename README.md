@@ -1,4 +1,4 @@
-# voyage_demo
+# vogue_demo
 
 A new Flutter project.
 
